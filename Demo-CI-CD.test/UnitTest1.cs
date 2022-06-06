@@ -1,5 +1,3 @@
-using Xunit;
-
 namespace Demo_CI_CD.test
 {
     public class UnitTest1
